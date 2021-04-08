@@ -1,2 +1,2 @@
-# CTL-DevOpsBatch-Feb2021
+# CTL-DevOps
 AWS | DevOps | Terraform | CI-CD | Observability | Training 
